@@ -1,6 +1,6 @@
 # ChatGPT Selenium
 
-ChatGPT Selenium is a project that uses web scraping and the Selenium WebDriver to interact with ChatGPT without needing to visit the website directly, by operating in headless mode.  
+- ChatGPT Selenium is a project that uses web scraping and the Selenium WebDriver to interact with ChatGPT without needing to visit the website directly, by operating in headless mode.  
 This tool is unstable and may need to require human interaction when needed. This program focuses on web scraping and automation to retrieve and send ChatGPT responses.  
 It may have issues to login depending on what type of login it is.
 This tool currently allows you to use command line headless chatgpt text and scrap it. If knowledgeable you can get the input to your own program but it is against tos for chatgpt so don't do it for regular use only learning.
@@ -9,7 +9,7 @@ This tool currently allows you to use command line headless chatgpt text and scr
 # Sample Run 
 
 ![Screenshot](Images/sample.png)
-Image of running
+- Image of running
 
 ---
 
